@@ -6,6 +6,10 @@
 <p align="center"><strong>Create. Present. Go Live.</strong></p>
 <p align="center">Church presentation and live-production software for Windows.</p>
 <p align="center">
+  <a href="https://github.com/fredybangs/salonaut/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/fredybangs/salonaut?label=latest&include_prereleases"></a>
+  <img alt="Windows 10 and 11, 64-bit" src="https://img.shields.io/badge/Windows-10%20%7C%2011%20x64-0078D6">
+</p>
+<p align="center">
   <a href="https://github.com/fredybangs/salonaut/releases/latest"><strong>⬇ Download the latest version</strong></a>
   ·
   <a href="#install">Install</a>
